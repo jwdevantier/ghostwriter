@@ -1,0 +1,9 @@
+*.pyc
+.pytest_cache
+.mypy_cache
+__pycache__
+.vscode
+.idea
+*.swp
+*.egg-info
+venv
